@@ -153,3 +153,6 @@ function traverse(node) {
     tree.right = node.right === null ? null : traverse(node.right);
     return tree;
 }
+
+// todo iterative traverse
+// ...
