@@ -4,13 +4,13 @@ function findFactorialIterative(number) {
     // if (number === 2) {
     //   answer = 2;
     // }
-    for (let i = 2; i <= number; i++) {
+    for (let i = 2; i <= number; i++) { // O(n)
         answer = answer * i;
     }
     return answer;
 }
 
-function findFactorialRecursive(number) {
+function findFactorialRecursive(number) { // O(n)
     if (number === 2) {
         return 2;
     }
