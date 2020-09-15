@@ -14,7 +14,7 @@
 // Insertion Sort
 
 //#6 - Temperature Records for the past 50 years in Canada
-// radix or counting Sort
+// radix or counting Sort if whole nums
 // Quick sort if decimal places
 
 //#7 - Large user name database needs to be sorted. Data is very random.
