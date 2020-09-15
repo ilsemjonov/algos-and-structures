@@ -18,7 +18,7 @@
 // Quick sort if decimal places
 
 //#7 - Large user name database needs to be sorted. Data is very random.
-// Quick sort
+// Merge sort if enough memory and mem not expensive, or Quick sort if not worried abt worst case scenario and that db isnt that large to save mem space.
 
 //#8 - You want to teach sorting
 // Bubble sort
