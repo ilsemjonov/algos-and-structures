@@ -1,4 +1,4 @@
-// dynamic programming - memoization - optimization technique using caching.
+// dynamic programming - (divide & conquer + memoization) - optimization technique using caching.
 
 //learn to cache
 function addTo80(n) {
